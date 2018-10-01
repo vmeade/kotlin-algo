@@ -1,6 +1,6 @@
-# Kotlin Algorithms
+# Bash Algorithms
 
-Basic algorithms from Kahn Academy  written in Kotlin.
+Basic algorithms from Kahn Academy  written in Bash.
 
 ### Current Algorithms
 Binary Search
